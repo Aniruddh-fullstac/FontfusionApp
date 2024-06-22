@@ -63,10 +63,4 @@ FontFusion is a cutting-edge Flutter application designed to redefine your font 
 2. **Apply and Use:** Choose a font and see how it can be applied in different contexts.
 
 
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
 Start your journey of font innovation with FontFusion today! Happy blending!
