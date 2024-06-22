@@ -30,7 +30,7 @@ FontFusion is a cutting-edge Flutter application designed to redefine your font 
 
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/your-username/FontFusion.git
+    git clone https://github.com/Aniruddh-fullstac/FontfusionApp.git
     cd FontFusion
     ```
 
